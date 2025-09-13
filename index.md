@@ -14,7 +14,7 @@ layout: default
 
 ## Reading List
 
-This residency is part of a multi-year journey exploring the intersection of dance and AI between Jordan and Jesse. Throughout this journey, we have used the following resources as material that inspired this work (a "Syllabus" if you will). The following list is a reading list where you can learn more about our thought process in making ALAN.
+This residency is part of a multi-year journey exploring the intersection of dance and AI between Jordan and Jesse. Throughout this journey, we have used the following material that inspired this work (a "Syllabus" if you will). The following list is a reading list where you can learn more about our thought process in making ALAN.
 
 *   [Empire of AI](https://karendhao.com/) by Karen Hao
 *   [Alan Turing: The Enigma](https://openlibrary.org/books/OL27136351M/Alan_Turing) by Andrew Hodges
