@@ -32,5 +32,4 @@ This residency is part of a multi-year journey exploring the intersection of dan
 * [Ways of Being](https://jamesbridle.com/books/ways-of-being) by James Bridle  
 * [Xenofeminist Manifesto](http://www.laboriacuboniks.net/#firstPage) by Laboria Cuboniks  
 * [12 Bytes](https://www.goodreads.com/book/show/58527285-12-bytes) by Jeanette Winterson  
-
 * [Alan Turing: The Enigma](https://openlibrary.org/books/OL27136351M/Alan_Turing) by Andrew Hodges
