@@ -21,7 +21,7 @@ This residency is part of a multi-year journey exploring the intersection of dan
 * [Cyborg Manifesto](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf) by Donna Haraway  
 * [Glitch Feminism](https://www.legacyrussell.com/GLITCHFEMINISM) by Legacy Russell  
 * [Glitch Studies Manifesto](https://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf) by Rosa Menkman  
-* [How Do I Make Myself A Body?](https://www.galeriebuchholz.de/exhibitions/olesen-08#?_ec=images||19) by Henrik Olesen  
+* [How Do I Make Myself A Body?](https://www.galeriebuchholz.de/exhibitions/olesen-08) by Henrik Olesen  
 * [How to Fall in Love with the Future](https://open.spotify.com/episode/1VMjoyj5yceRO5eytkGSeZ?si=c4fb3c66ec7841cb) with Rob Hopkins (Upstream podcast)  
 * [In Defense of the Poor Image](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image) by Hito Steyerl  
 * [Robot Rights? Let’s Talk About Human Welfare Instead](https://arxiv.org/abs/2001.05046) by Amanda Sharkey  
