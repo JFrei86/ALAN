@@ -3,7 +3,7 @@ layout: default
 ---
 
 [About the residency](./about-alan.html).
-[Digital Pamphlet](./ALANPPamphlet.pdf)
+[Digital Pamphlet](./assets/ALANPamphlet.pdf)
 
 ## Pamphlet Citations
 
